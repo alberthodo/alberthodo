@@ -1,6 +1,7 @@
 -Hi there, </br>
 -Product engineer at Berkeley, CA</br>
--Prototyping BCI experiments and building [NIVIS Studio](https://www.getnivis.com) brick by brick<br>
+-Prototyping bio signals with physical & digital systems<br>
+-Building [NIVIS Studio](https://www.getnivis.com) in my free time<br>
 <br>
 <br>
 <br>
