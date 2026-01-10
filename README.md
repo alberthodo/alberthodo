@@ -1,6 +1,6 @@
 -Hi there, </br>
--Product engineer at Berkeley, CA</br>
--Prototyping bio signals with physical & digital systems<br>
+-Product designer & Emerging Tech Prototyper</br>
+-Prototyping AI & bio signals with physical & digital systems<br>
 -Building [NIVIS Studio](https://www.getnivis.com) in my free time<br>
 <br>
 <br>
