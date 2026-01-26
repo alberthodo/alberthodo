@@ -1,6 +1,6 @@
 -Hi there, </br>
 -Product designer & Emerging Tech Prototyper</br>
--Prototyping AI & bio signals with physical & digital systems<br>
+-Designer with a technical vocabulary specializing in taking systems from 0-1 across AI systems, b2c workflows and a deep understanding of engineering realities.<br>
 -Building [NIVIS Studio](https://www.getnivis.com) in my free time<br>
 <br>
 <br>
